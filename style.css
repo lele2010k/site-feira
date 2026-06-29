@@ -3,8 +3,8 @@
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden;
-background-color: aliceblue;
-font-family: sans-serif;
+    background-color: aliceblue;
+    font-family: sans-serif;
 }
 .card img{
     width: 100%;
@@ -16,3 +16,10 @@ font-family: sans-serif;
 .card-content h2 {
     margin-top: 0;
 }
+.card-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: aqua;
+    text-decoration: none;
+    border-radius: 5px;
+ }
